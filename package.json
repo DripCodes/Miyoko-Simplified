@@ -7,5 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Chi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "alexa-bot-api": "^2.0.1",
+    "canvacord": "^5.1.0",
+    "canvas": "^2.7.0",
+    "discord-player": "^3.4.0",
+    "discord-xp": "^1.1.14",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "ffmpeg-static": "^4.3.0"
+  }
 }
